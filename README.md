@@ -12,6 +12,7 @@ The project combines an ESP32 flight-controller firmware, an MPU6050 IMU, and an
   - 1× ESP32 as the flight controller + onboard receiver
   - 1× ESP32 as the ESP-NOW transmitter
 - MPU6050
+- 2x Analog Joystick modules
 - Motors, motor driver/MOSFET stage, battery, and frame according to your build
 - Buzzer and other electronic components *(optional)*
 
