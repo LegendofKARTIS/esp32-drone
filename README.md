@@ -4,6 +4,16 @@ Drone with just Generic ESP32 Board as both Flight controller + Receiver with ES
 
 <h2>Requirements:</h2>
 <br>
+
+<h3>Hardware:</h3>
+<br>
+2x ESP32 board
+MPU6050
+Buzzer and some electronic components (optional).
+
+
+<h3>Software:</h3>
+<br>
 Install ESP-IDF v5.0.7:
 https://dl.espressif.com/dl/esp-idf/
 
