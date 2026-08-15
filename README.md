@@ -1,6 +1,8 @@
 # ESP32-drone
 Drone with just Generic ESP32 Board as both Flight controller + Receiver with ESP-NOW Protocol to communicate with Transmitter ESP32
 
+Download BetaFlight v10.10 :
+https://github.com/betaflight/betaflight-configurator/releases/tag/10.10.0
 
 
 
