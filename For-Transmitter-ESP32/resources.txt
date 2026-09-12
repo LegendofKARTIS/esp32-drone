@@ -1,3 +1,0 @@
-
-main_code: https://github.com/rtlopez/esp-fc
-librarry:  https://github.com/rtlopez/espnow-rclink/archive/refs/tags/v0.1.1.zip
