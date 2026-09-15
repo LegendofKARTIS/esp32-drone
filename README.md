@@ -7,6 +7,7 @@ The project combines an ESP32 flight-controller firmware, an MPU6050 IMU, and an
 ## Requirements
 
 ### Hardware
+<img width="1672" height="941" alt="KartX Air wing v1 components" src="https://github.com/user-attachments/assets/685c12b7-b352-4583-8b12-c4045501a856" />
 
 - 2× ESP32 development boards
   - 1× ESP32 as the flight controller + onboard receiver
