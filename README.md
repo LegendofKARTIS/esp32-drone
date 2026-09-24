@@ -88,8 +88,20 @@ The overall architecture is:
 The detailed installation, firmware flashing, wiring, Betaflight configuration, ESP-NOW transmitter setup, and complete working procedure will be covered in the project video.
 
 > **YouTube video:**
->
-> *Video is currently under construction.*
+><img width="1672" height="941" alt="esp32 drone v1 (2)" src="https://github.com/user-attachments/assets/e0346f6e-583a-4764-859c-225b2444a818" />
+
+> https://youtu.be/n5862vpIyAE
+
+## Buying Link
+> **Drone Frame**
+> <img width="1254" height="1254" alt="esp32 frame " src="https://github.com/user-attachments/assets/825ed408-8d35-4f31-9776-2dddf2943578" />
+
+> https://rsinnovations.co.in/product/esp32-based-drone-frame-3d-printed-pla/
+
+> **Drone Remote Enclosure**
+> <img width="2048" height="2048" alt="esp drone pad 1" src="https://github.com/user-attachments/assets/6a66620e-3d9f-48ad-bdb8-6037948e30e7" />
+
+> https://rsinnovations.co.in/product/esp32-based-drone-frame-3d-printed-pla/
 
 ## Credits
 
