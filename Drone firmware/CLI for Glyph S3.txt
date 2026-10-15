@@ -1,0 +1,24 @@
+set pin_input_rx -1
+set pin_output_0 9
+set pin_output_1 6
+set pin_output_2 36
+set pin_output_3 37
+set pin_buzzer 10*
+set pin_serial_0_tx 43
+set pin_serial_0_rx 44
+set pin_serial_1_tx 16
+set pin_serial_1_rx 15
+set pin_serial_2_tx -1
+set pin_serial_2_rx -1
+set pin_i2c_scl 5
+set pin_i2c_sda 4
+set pin_input_adc_0 1
+set pin_input_adc_1 -1
+set pin_spi_0_sck 12
+set pin_spi_0_mosi 11
+set pin_spi_0_miso 13
+set pin_spi_cs_0 8
+set pin_spi_cs_1 7
+set pin_spi_cs_2 -1
+set pin_buzzer_invert 1
+
