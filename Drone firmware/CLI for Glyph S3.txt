@@ -3,7 +3,7 @@ set pin_output_0 9
 set pin_output_1 6
 set pin_output_2 36
 set pin_output_3 37
-set pin_buzzer 10*
+set pin_buzzer 10
 set pin_serial_0_tx 43
 set pin_serial_0_rx 44
 set pin_serial_1_tx 16
